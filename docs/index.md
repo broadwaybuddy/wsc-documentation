@@ -13,7 +13,7 @@
 }  
 </style>
 
-## Background
+## Introduction
 
 ### Wii Shop Channel
 
