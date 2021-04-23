@@ -43,7 +43,7 @@ This remaining functionality, however, will eventually disappear. As Nintendo pu
 
 Without the Wii Shop Channel, most of the software that it hosted [is now legally impossible to obtain](https://www.vice.com/en/article/wjm5kw/nintendo-makes-it-clear-that-piracy-is-the-only-way-to-preserve-video-game-history). While this lack of access to hundreds of titles is ridiculous, piracy is not an acceptable solution, and it is not our right or responsibility to break the law.
 
-Licensed Wii software, thankfully, is not the only software library on the Wii. There is [a vast array](https://wiibrew.org/wiki/List_of_homebrew_applications) of [homebrew Wii software](https://wiibrew.org/wiki/WiiBrew:FAQ) that has been created by the homebrew community. Further still, homebrew Wii software is free and legal to distribute.
+Licensed Wii software, thankfully, is not the Wii's only software library. There is [a vast array](https://wiibrew.org/wiki/List_of_homebrew_applications) of [homebrew Wii software](https://wiibrew.org/wiki/WiiBrew:FAQ) that has been created by the homebrew community. Further still, homebrew Wii software is free and legal to distribute.
 
 Currently, the primary method of downloading homebrew software is through the use of the [Homebrew Browser](https://wiibrew.org/wiki/Homebrew_Browser), or its successor platform, the [Open Shop Channel](https://oscwii.org/).
 
