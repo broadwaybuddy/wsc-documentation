@@ -36,3 +36,7 @@ This remaining functionality, however, will eventually disappear. As Nintendo pu
 >In the future, we will be closing all services related to the Wii Shop Channel, including redownloading purchased WiiWare, Virtual Console titles, and Wii Channels, as well as Wii System Transfer Tool, which transfers data from the Wii console to the Wii U console.
 
 Without the Wii Shop Channel, [the software that it hosted is now legally impossible to obtain](https://www.vice.com/en/article/wjm5kw/nintendo-makes-it-clear-that-piracy-is-the-only-way-to-preserve-video-game-history). As a homebrew community, however, it is not our right to rectify this lack of access by breaking the law.
+
+The homebrew community *does* have [a vast array](https://wiibrew.org/wiki/List_of_homebrew_applications) of software that is free and legal to distribute. Currently, the primary method of downloading that software is through the use of the [Homebrew Browser](https://wiibrew.org/wiki/Homebrew_Browser), or its successor platform, the [Open Shop Channel](https://oscwii.org/), both of which operate independently of the Wii Shop Channel.
+
+Combined with the fact that Nintendo no longer derives revenue from the Wii Shop Channel, a homebrew service to replace the Wii Shop Channel   
