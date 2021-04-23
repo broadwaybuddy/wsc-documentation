@@ -1,9 +1,3 @@
----
-layout: post
-title: Introduction
-order: 1
----
-
 <style>
 .video-container {
     position: relative;
