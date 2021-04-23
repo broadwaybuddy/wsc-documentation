@@ -41,14 +41,14 @@ This remaining functionality, however, will eventually disappear. As Nintendo pu
 
 ### Existing Alternatives
 
-Without the Wii Shop Channel, most of the software that it hosted [is now legally impossible to obtain](https://www.vice.com/en/article/wjm5kw/nintendo-makes-it-clear-that-piracy-is-the-only-way-to-preserve-video-game-history). As a community, however, it is not our right or responsibility to rectify this lack of access by breaking the law.
+Without the Wii Shop Channel, most of the software that it hosted [is now legally impossible to obtain](https://www.vice.com/en/article/wjm5kw/nintendo-makes-it-clear-that-piracy-is-the-only-way-to-preserve-video-game-history). While this lack of access to hundreds of titles is ridiculous, piracy is not an acceptable solution, and it is not our right or responsibility to break the law.
 
-Alongside the sphere of licensed Wii software is the sphere of [homebrew Wii software](https://wiibrew.org/wiki/WiiBrew:FAQ). There is [a vast array](https://wiibrew.org/wiki/List_of_homebrew_applications) of homebrew Wii software that has been created independently, and this homebrew software is free and legal to distribute.
+Licensed Wii software, thankfully, is not the only software library on the Wii. There is [a vast array](https://wiibrew.org/wiki/List_of_homebrew_applications) of [homebrew Wii software](https://wiibrew.org/wiki/WiiBrew:FAQ) that has been created by the homebrew community. Further still, homebrew Wii software is free and legal to distribute.
 
 Currently, the primary method of downloading homebrew software is through the use of the [Homebrew Browser](https://wiibrew.org/wiki/Homebrew_Browser), or its successor platform, the [Open Shop Channel](https://oscwii.org/).
 
 ### Case for development
 
-The Homebrew Browser, and especially its successor, the Open Shop Channel, are excellent pieces of software. The Wii Shop Channel, however, holds a weighty amount of nostalgia, and currently lies as defunct on every existing Wii.
+The Homebrew Browser, and especially its successor, the Open Shop Channel, are excellent pieces of software. The Wii Shop Channel, however, holds a weighty amount of nostalgia, and currently lies defunct on every existing Wii.
 
 Given the demand for homebrew software, the success of existing homebrew browsers, and the online sentiment surrounding the now-defunct Wii Shop Channel, there is a significant case for modifying the Wii Shop Channel software to act as a homebrew browser.
