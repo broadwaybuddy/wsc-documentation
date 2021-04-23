@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
+theme: barryclark/jekyll-now
 title: Wii Shop Channel as a homebrew browser
 description: Documenting the process of a) patching the Wii Shop Channel binary to communicate with a custom, independent server, and b) creating that server. 
